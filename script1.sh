@@ -19,3 +19,4 @@ echo "My script file : $0 "
 echo "My script file : $(basename $(readlink -nf $0))"
 echo -e "\n\n\n\n"
 #/home/jenkins/myScripts/$0
+echo "Poll SCM feature learning "
